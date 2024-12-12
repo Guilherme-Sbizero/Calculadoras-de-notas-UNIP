@@ -12,7 +12,7 @@ O objetivo é dar mais praticidade aos alunos dos cursos de graduação a sabere
 ## 📦 Tecnologias Utilizadas
 
 - [Linguagem de Programação utilizada: **Python**]
-- [Linguagem de Programação utilizda: **Java**]
+- {Linguagem de Programação utilizda: **Java**}
 
 ## ⚙️ Instalação e Uso
 
